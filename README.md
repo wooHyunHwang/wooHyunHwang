@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <a href="https://qdgbjsdnb.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
   </a>
@@ -7,14 +7,19 @@
   </a>
 </p>
 
-
 <h2>✨Skills</h2>
 
+<h3>Back-End</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/VueJs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-9C2FE4?style=flat-square&logo=kotlin&logoColor=white"/>
+</p>
+
+<h3>Front-End</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/VueJs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
 
 
