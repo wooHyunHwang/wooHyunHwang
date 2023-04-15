@@ -29,6 +29,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=naver&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
