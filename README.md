@@ -16,19 +16,19 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-9C2FE4?style=flat-square&logo=kotlin&logoColor=white"/>
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-9C2FE4?style=flat-square&logo=rabbitmq&logoColor=white"/>
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/VueJs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NuxtJs-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -41,6 +41,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wooHyunHwang&show_icons=true&theme=swift" style="width: 350px; height: auto;" alt="Github Stat">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooHyunHwang&layout=compact&theme=swift&langs_count=5" style="width: 350px; height: auto;" alt="Lang Stat">
+</p>
+<p align="center">
   <img src="https://leetcode.card.workers.dev/askljdlkasdj?theme=wtf&font=source_code_pro&extension=null" style="width: 350px; height: auto;" alt="LeetCode Stat">
 </p>
