@@ -40,5 +40,5 @@
 <h2>💛Stats</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooHyunHwang&show_icons=true&theme=swift)
-![LeetCode Stats](https://leetcard.jacoblin.cool/askljdlkasdj?theme=wtf&font=Yomogi&ext=heatmap&width=300&height=500)
+![LeetCode Stats](https://leetcode.card.workers.dev/askljdlkasdj?theme=wtf&font=source_code_pro&extension=null)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooHyunHwang&layout=compact&theme=swift&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
