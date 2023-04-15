@@ -1,6 +1,6 @@
 <h2>🤔Contact Me</h2>
 
-<p align="right">
+<p align="left">
   <a href="mailto:woohyeon5713@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/woohyeon5713@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
