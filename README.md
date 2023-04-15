@@ -40,5 +40,5 @@
 <h2>💛Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=wooHyunHwang&show_icons=true&theme=swift" style="width: 350px; height: auto;" alt="Github Stat">
-<img src="https://leetcode.card.workers.dev/askljdlkasdj?theme=wtf&font=source_code_pro&extension=null" style="width: 350px; height: auto;" alt="LeetCode Stat">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooHyunHwang&layout=compact&theme=swift&langs_count=5" style="width: 350px; height: auto;" alt="Lang Stat">
+<img src="https://leetcode.card.workers.dev/askljdlkasdj?theme=wtf&font=source_code_pro&extension=null" style="width: 350px; height: auto;" alt="LeetCode Stat">
