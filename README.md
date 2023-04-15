@@ -1,3 +1,12 @@
+<p>
+  <a href="https://qdgbjsdnb.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
+  </a>
+  <a href="mailto:woohyeon5713@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/woohyeon5713@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 <h2>✨Skills</h2>
 
