@@ -1,26 +1,38 @@
-<p align="center">
-  <a href="https://qdgbjsdnb.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
-  </a>
+<p align="left">
   <a href="mailto:woohyeon5713@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/woohyeon5713@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://qdgbjsdnb.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
   </a>
 </p>
 
 <h2>✨Skills</h2>
 
 <h3>
-  Back-End :
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  Back-End 
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-9C2FE4?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-9C2FE4?style=flat-square&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </h3>
 
 <h3>
-  Front-End :
+  Front-End 
   <img src="https://img.shields.io/badge/VueJs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+</h3>
+
+<h3>
+  etc 
+  <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
 </h3>
 
 
