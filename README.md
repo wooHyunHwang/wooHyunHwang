@@ -7,6 +7,6 @@
 
 <h2>Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooHyunHwang&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooHyunHwang&show_icons=true&theme=swift)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooHyunHwang&layout=compact&theme=swift&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
