@@ -1,3 +1,5 @@
+<h2>🤔Contact Me</h2>
+
 <p align="left">
   <a href="mailto:woohyeon5713@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/woohyeon5713@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -22,6 +24,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/VueJs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
 <p>
@@ -29,6 +32,7 @@
   <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 </p>
 
 
