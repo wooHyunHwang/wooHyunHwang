@@ -9,7 +9,12 @@
 
 <h2>✨Skills</h2>
 
-<h3>Back-End</h3>
+<h3>
+  Back-End :
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-9C2FE4?style=flat-square&logo=kotlin&logoColor=white"/>
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
