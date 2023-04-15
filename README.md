@@ -39,6 +39,6 @@
 
 <h2>💛Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooHyunHwang&show_icons=true&theme=swift&card_width=300)
-![LeetCode Stats](https://leetcard.jacoblin.cool/askljdlkasdj?theme=unicorn&font=Yomogi&ext=heatmap)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooHyunHwang&show_icons=true&theme=swift)
+![LeetCode Stats](https://leetcard.jacoblin.cool/askljdlkasdj?theme=wtf&font=Yomogi&ext=heatmap&width=300&height=500)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooHyunHwang&layout=compact&theme=swift&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
