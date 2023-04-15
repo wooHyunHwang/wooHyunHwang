@@ -9,18 +9,18 @@
 
 <h2>✨Skills</h2>
 
-<h4>
+<h3>
   Back-End :
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-9C2FE4?style=flat-square&logo=kotlin&logoColor=white"/>
-</h4>
+</h3>
 
-<h4>
+<h3>
   Front-End :
   <img src="https://img.shields.io/badge/VueJs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-</h4>
+</h3>
 
 
 <h2>💛Stats</h2>
