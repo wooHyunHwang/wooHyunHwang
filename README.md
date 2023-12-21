@@ -16,7 +16,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-9C2FE4?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -29,14 +30,6 @@
   <img src="https://img.shields.io/badge/NuxtJs-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 </p>
 
 
