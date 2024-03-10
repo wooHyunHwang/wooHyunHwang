@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-9C2FE4?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/VueJs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NuxtJs-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
   <!--
